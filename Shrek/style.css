@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: url("Shrex.jpg")center/cover no-repeat;
+}
+
+
+@media (max-width: 1280px) {
+    body {
+        background: url("Vana.webp")center/cover no-repeat;
+    }
+}
+
+
+@media (max-width: 640px) {
+    body {
+        background: url("Bryle.jpg") center/cover no-repeat;
+    }
+}
